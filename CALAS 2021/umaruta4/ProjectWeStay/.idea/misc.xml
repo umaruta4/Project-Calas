@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Program Files/AndroidStudioProjects/ProjectWeStay/app/src/main/res/drawable-v24/add.xml" value="0.2235" />
+        <entry key="..\:/Program Files/AndroidStudioProjects/ProjectWeStay/app/src/main/res/drawable-v24/home.xml" value="0.2235" />
+        <entry key="..\:/Program Files/AndroidStudioProjects/ProjectWeStay/app/src/main/res/drawable-v24/lingkaran.xml" value="0.2235" />
+        <entry key="..\:/Program Files/AndroidStudioProjects/ProjectWeStay/app/src/main/res/drawable-v24/notif.xml" value="0.2235" />
+        <entry key="..\:/Program Files/AndroidStudioProjects/ProjectWeStay/app/src/main/res/drawable-v24/person.xml" value="0.2235" />
+        <entry key="..\:/Program Files/AndroidStudioProjects/ProjectWeStay/app/src/main/res/layout/activity_account_detail_pengguna.xml" value="0.21195652173913043" />
+        <entry key="..\:/Program Files/AndroidStudioProjects/ProjectWeStay/app/src/main/res/layout/activity_account_detail_penyewa.xml" value="0.21195652173913043" />
+        <entry key="..\:/Program Files/AndroidStudioProjects/ProjectWeStay/app/src/main/res/layout/activity_add_rumah.xml" value="0.25416666666666665" />
+        <entry key="..\:/Program Files/AndroidStudioProjects/ProjectWeStay/app/src/main/res/layout/activity_detail_homestay_pengguna.xml" value="0.21195652173913043" />
+        <entry key="..\:/Program Files/AndroidStudioProjects/ProjectWeStay/app/src/main/res/layout/activity_detail_homestay_penyewa.xml" value="0.264" />
+        <entry key="..\:/Program Files/AndroidStudioProjects/ProjectWeStay/app/src/main/res/layout/activity_form_pemesanan.xml" value="0.264" />
+        <entry key="..\:/Program Files/AndroidStudioProjects/ProjectWeStay/app/src/main/res/layout/activity_home_pengguna.xml" value="0.2" />
+        <entry key="..\:/Program Files/AndroidStudioProjects/ProjectWeStay/app/src/main/res/layout/activity_home_penyewa.xml" value="0.24010416666666667" />
+        <entry key="..\:/Program Files/AndroidStudioProjects/ProjectWeStay/app/src/main/res/layout/activity_konfirmasi_pengguna.xml" value="0.264" />
+        <entry key="..\:/Program Files/AndroidStudioProjects/ProjectWeStay/app/src/main/res/layout/activity_login.xml" value="0.25416666666666665" />
+        <entry key="..\:/Program Files/AndroidStudioProjects/ProjectWeStay/app/src/main/res/layout/activity_main.xml" value="0.24010416666666667" />
+        <entry key="..\:/Program Files/AndroidStudioProjects/ProjectWeStay/app/src/main/res/layout/activity_notifikasi_penyewa.xml" value="0.20380434782608695" />
+        <entry key="..\:/Program Files/AndroidStudioProjects/ProjectWeStay/app/src/main/res/layout/activity_pilih_sign_in.xml" value="0.25416666666666665" />
+        <entry key="..\:/Program Files/AndroidStudioProjects/ProjectWeStay/app/src/main/res/layout/activity_register_pengguna.xml" value="0.25416666666666665" />
+        <entry key="..\:/Program Files/AndroidStudioProjects/ProjectWeStay/app/src/main/res/layout/activity_register_penyewa.xml" value="0.264" />
+        <entry key="..\:/Program Files/AndroidStudioProjects/ProjectWeStay/app/src/main/res/layout/layout_homestay.xml" value="0.25416666666666665" />
+        <entry key="..\:/Program Files/AndroidStudioProjects/ProjectWeStay/app/src/main/res/layout/layout_notifikasi.xml" value="0.20380434782608695" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
